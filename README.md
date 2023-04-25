@@ -9,4 +9,4 @@ to start project :open cmd in this folder
 to change node label (name)->goto public/js/script.js ->topoArr.labels or topoArrTopo.labels
 properties= provides data with id
 
-credits: neo4j3d
+credits: <a href="https://github.com/eisman/neo4jd3" >neo4jd3</a>
